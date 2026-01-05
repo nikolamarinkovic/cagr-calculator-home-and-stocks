@@ -17,10 +17,10 @@ yahoo finance for GSPC, which is tracking the s&p 500 index.
 
 For the home prices in Belgrade, the data was taken from [RGZ](https://www.rgz.gov.rs/%D0%B8%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%D0%B8-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B5-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D0%B8%D0%BA%D0%B5) 
 (Republicki geodetski zavod).  
-The data is in the public yearly reports and the data was compiled in the program itself.
-The home prices in the reports is divided on the municipality.   
+The data is in the public yearly reports and the data is written in the program.  
+The home prices in the reports is grouped by municipality.  
 For the calculation of CAGR, the average price per square meter was taken as the data.    
-CAGR is calculator for each municipality and for Belgrade on average.  
+CAGR is calculated for each municipality and for Belgrade on average.  
 
 This method does not represent actual CAGR, as it overlooks many different factors.  
 Nonetheless, the method and calculations shows a rough estimation of price growth of prices over time.
